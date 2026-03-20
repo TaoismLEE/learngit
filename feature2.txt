@@ -1,3 +1,2 @@
 this file in feature2
-add file.
-edit from master
+add from feature2.
