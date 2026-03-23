@@ -781,4 +781,3 @@ AI按tasks.md逐任务生成代码，遵循已有宪章、公约和Cursor Rules�
 > - FAQ（15-20个常见问题）
 > - 术语表
 
-appended
